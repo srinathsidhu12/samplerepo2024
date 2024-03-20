@@ -1,5 +1,8 @@
-*.txt
+
 *.py
 *.net
 
 !one.txt
+
+
+[aeious]*.txt
